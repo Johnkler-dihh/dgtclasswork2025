@@ -1,0 +1,62 @@
+body{
+    background-color:#242424;
+    font-family:'Lato',sans-serif;
+    color:white;
+}
+.quan{
+    text-decoration:none;
+    color:white;
+    transition:.23s;
+    margin:1%;
+    font-size: 20px;
+    font-weight: 300;
+}
+.KC{
+    text-align:center;
+    padding:30px;
+
+    
+}
+.quan:hover{
+    font-size: 30px;
+    font-weight:350;
+    color: rgb(168, 224, 116);
+
+}
+h1{
+    padding:20px;
+    font-weight:300;
+    text-align:center;
+}
+.negro{
+    word-spacing: 3px;
+    padding-top: 5%;
+    margin-right:67%;
+    margin-left:2%;
+    overflow: auto;
+}
+.ne{
+    width:200px;
+}
+.kfc{
+    float:right;
+    margin-right:10%;
+    padding:5%;
+}
+.ne1{
+    width:400px;
+}
+.shp{
+    width:500px;
+    padding-left:300px;
+    overflow: auto;
+}
+.shph1{
+    padding-top:10px;
+    padding-left:280px;
+    overflow: auto;
+}.imag{
+    width: 400px;
+    float:right;  
+    margin-right:200px;
+}
