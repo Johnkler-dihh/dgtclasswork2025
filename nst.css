@@ -14,8 +14,6 @@ body{
 .KC{
     text-align:center;
     padding:30px;
-
-    
 }
 .quan:hover{
     font-size: 30px;
@@ -28,7 +26,7 @@ h1{
     font-weight:300;
     text-align:center;
 }
-.negro{
+.pn{
     word-spacing: 3px;
     padding-top: 5%;
     margin-right:67%;
@@ -47,16 +45,98 @@ h1{
     width:400px;
 }
 .shp{
-    width:500px;
-    padding-left:300px;
+    width:40%;
+    padding-left:5%;
     overflow: auto;
 }
 .shph1{
     padding-top:10px;
     padding-left:280px;
     overflow: auto;
-}.imag{
-    width: 400px;
+}
+.imag{
+    width: 300px;
     float:right;  
     margin-right:200px;
+}
+.image{
+    width: 300px;
+    float:right;  
+    margin-right:200px;
+    overflow: auto;
+}
+.imag2{
+    width: 22%;
+    float:right;  
+    margin-right:200px;
+    overflow: auto;
+}
+.shpa{
+    text-decoration: none;
+    color: white;
+    transition:.23s;
+    margin-left: 25%;
+}
+.shpa:hover{
+    text-decoration: underline;
+    color: rgb(168, 224, 116);
+    transition:.23s;
+    margin-left: 20%;
+    font-size: 20px;
+}
+@media (max-width:600px) {
+    .shp{
+        width:80%;
+        padding-left:5%;
+        overflow: auto;
+        font-size: 15px;
+    }
+    .shph1{
+        padding-top:10px;
+        padding-left:140px;
+        overflow: auto;
+        font-size: 20px;
+    }
+    .imag{
+        width:200px;
+        margin-right:0px;
+        float: none;
+        margin-left:25%;
+    }
+    h1{
+        padding:0%;
+    }
+    .image{
+        width:150px;
+        margin-right:0px;
+        float: none;
+        margin-left:25%;
+        height: 100px;
+    }
+    .imag2{
+        width:200px;
+        margin-right:0px;
+        float: none;
+        margin-left:25%;
+    }
+    .ne1{
+        width:100px;
+        margin-right: 20%;
+    }
+    .ne{
+        width:50px;
+        margin-right:30%;
+        overflow: auto;
+    }
+    .pn{
+        font-size: 15px;
+        margin-right:0%;
+        margin-left:1%;
+        overflow: hidden;
+    }
+    .kfc{
+        float:none;
+        margin:5%;
+        padding:0%;
+    }
 }

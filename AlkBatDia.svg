@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="270px" height="330px" viewBox="0 0 270 330" enable-background="new 0 0 270 330" xml:space="preserve">
+<path fill="#F15A24" d="M244.666,290.032c0,1.64,1.343,2.636,3,2.636h13c1.657,0,3-0.996,3-2.636V39.637c0-1.64-1.343-2.969-3-2.969
+	h-13c-1.657,0-3,1.33-3,2.969v3.365l7.333,8l0.667,217.333l-8,12V290.032z"/>
+<path fill="#F15A24" d="M140.666,290.032c0,1.64-1.343,2.636-3,2.636h-13c-1.657,0-3-0.996-3-2.636V39.637
+	c0-1.64,1.343-2.969,3-2.969h13c1.657,0,3,1.33,3,2.969v3.365l-7.333,8l-0.667,217.333l8,12V290.032z"/>
+<polygon fill="#FBB03B" points="141.666,269.667 182.666,270.667 182.666,277.667 135.666,277.667 135.666,286.667 129.666,286.667 
+	129.666,262.667 134.333,263 "/>
+<polygon fill="#FBB03B" points="244.666,269.667 206.666,270.667 206.666,277.667 250.666,277.667 250.666,286.667 256.666,286.667 
+	256.666,262.667 251.999,263 "/>
+<path fill="#333333" d="M255.666,262.64c0,1.672-1.446,3.027-3.148,3.027H132.347c-1.701,0-2.681-1.355-2.681-3.027V47.695
+	c0-1.672,0.98-3.027,2.681-3.027h120.171c1.702,0,3.148,1.355,3.148,3.027V262.64z"/>
+<rect x="157.666" y="55.667" fill="#808080" width="70" height="211"/>
+<path fill="#B3B3B3" d="M260.666,268.542c-1.981,0.229-3.962,0.27-6,0.264"/>
+<path fill="#999999" d="M257.674,39.667H211l-7.334-9h-20.667l-8,9h-47.009c-1.836,0-3.325,1.462-3.325,3.265v246.804l14-0.068v-5
+	h-8V48.842c0-1.753,1.243-3.175,2.776-3.175H179l5.333-8h17.334l4.666,8h45.562c1.533,0,2.772,1.421,2.772,3.175v235.825h-8v5
+	l14,0.068V42.932C260.666,41.129,259.51,39.667,257.674,39.667z"/>
+<polygon fill="#8C6239" points="205.666,287.667 205.666,270.667 198.973,270.667 197.9,108.501 192.307,92.667 186.662,108.501 
+	185.599,270.667 179.666,270.667 179.666,287.667 "/>
+<polygon fill="#808080" points="252.666,281.667 241.999,281.667 230.666,289.667 161.333,289.667 151.332,281.667 133.666,281.667 
+	133.666,275.667 157.999,275.667 164.832,282.667 225.498,282.667 235.333,275.667 252.666,275.667 "/>
+<polygon fill="#CCB3CC" points="153.666,51.667 153.666,270.667 157.666,270.667 157.666,55.667 226.666,55.667 226.666,270.667 
+	231.666,270.667 231.666,51.667 "/>
+<rect x="11.466" y="5" fill="none" width="89.535" height="21.333"/>
+<text transform="matrix(1 0 0 1 14.2993 15.3042)" font-family="'Helvetica'" font-size="12">positive terminal</text>
+<rect x="31.147" y="49.358" fill="none" width="69.853" height="19.667"/>
+<text transform="matrix(1 0 0 1 35.6274 59.6616)" font-family="'Helvetica'" font-size="12">outer casing</text>
+<rect x="36.38" y="92.881" fill="none" width="64.621" height="19.667"/>
+<text transform="matrix(1 0 0 1 42.9575 103.1851)" font-family="'Helvetica'" font-size="12">zinc anode</text>
+<rect x="14.225" y="136.405" fill="none" width="86.775" height="19.667"/>
+<text transform="matrix(1 0 0 1 15.6353 146.7085)" font-family="'Helvetica'" font-size="12">current collector</text>
+<rect x="18.915" y="179.095" fill="none" width="82.085" height="21.334"/>
+<text transform="matrix(1 0 0 1 23.3979 189.3989)"><tspan x="0" y="0" font-family="'Helvetica'" font-size="12">MnO</tspan><tspan x="26.004" y="4" font-family="'Helvetica'" font-size="10">2</tspan><tspan x="31.565" y="0" font-family="'Helvetica'" font-size="12"> cathode</tspan></text>
+<rect x="7.312" y="217.953" fill="none" width="93.689" height="30.666"/>
+<text transform="matrix(1 0 0 1 10.2798 228.2563)"><tspan x="0" y="0" font-family="'Helvetica'" font-size="12">porous separator</tspan><tspan x="27.363" y="14.399" font-family="'Helvetica'" font-size="12">(salt bridge)</tspan></text>
+<rect x="19.605" y="266.142" fill="none" width="81.396" height="21.334"/>
+<text transform="matrix(1 0 0 1 26.2935 276.4458)" font-family="'Helvetica'" font-size="12">protective cap</text>
+<rect x="5.07" y="309.667" fill="none" width="95.93" height="16.07"/>
+<text transform="matrix(1 0 0 1 9.6177 319.9702)" font-family="'Helvetica'" font-size="12">negative terminal</text>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="106" y1="10.333" x2="186.666" y2="34.333"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="104" y1="56.333" x2="123.333" y2="69.667"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="104.666" y1="99" x2="169.333" y2="107"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="104.666" y1="224.333" x2="154.666" y2="219.667"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="105.333" y1="143" x2="193.333" y2="147.667"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="104" y1="185.667" x2="140.666" y2="179.667"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="104" y1="273.333" x2="134.666" y2="269"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="105" y1="315.333" x2="192.666" y2="286.333"/>
+</svg>
